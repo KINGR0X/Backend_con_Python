@@ -1,2 +1,3 @@
 # Backend_con_Python
-Ruta de backend con Python de Platzi
+
+Platzi ruta de backend con Python.
