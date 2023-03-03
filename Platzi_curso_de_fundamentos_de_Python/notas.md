@@ -77,8 +77,25 @@ salida:
 index => 1
 ```
 
-## Clase 27- Tuplas
+## Clase 27 - Tuplas
 
 La diferencia con las tuplas con las listas es que no se pueden agregar nuevos elementos, eliminar, o editar al final, porque son no modificables
 
 Las tuplas son utiles cuando no se necesitan modificar elementos, porque no se necesitan más datos o opciones, como por ejemplo en un juego de piedra, papel, o tijera, donde siempre tendra 3 opciones.
+
+## Clase 29 - Diccionarios
+
+Un diccionarios tienen una llave y un valor, ambas pueden ser de diferentes tipos, no es extrictamente necesario que la llave del diccionario sea un valor numerioc ej:
+
+```python
+my_dic={
+  "avion": "bla bla bla",
+  "name" : "Nicolas",
+  "las_name" : "Molina",
+  "age" : 87
+}
+
+```
+
+- al momento de buscar un valor se hace usando la llave.
+- Dentro de los diccionarios pueden haber listas
